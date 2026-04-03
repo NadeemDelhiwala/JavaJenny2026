@@ -2,6 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class JennyJava {
     public static void main(String[] args) {
-        System.out.println("Welcome to Java 2026");
+        System.out.println("Welcomes to Java 2026");
     }
 }
